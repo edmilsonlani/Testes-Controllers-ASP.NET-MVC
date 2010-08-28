@@ -1,0 +1,5 @@
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\BlogTestesControllerI\BlogTestesControllerI\bin\BlogTestesControllerI.dll
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\BlogTestesControllerI\BlogTestesControllerI\bin\BlogTestesControllerI.pdb
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\BlogTestesControllerI\BlogTestesControllerI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\BlogTestesControllerI\BlogTestesControllerI\obj\Debug\BlogTestesControllerI.dll
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\BlogTestesControllerI\BlogTestesControllerI\obj\Debug\BlogTestesControllerI.pdb

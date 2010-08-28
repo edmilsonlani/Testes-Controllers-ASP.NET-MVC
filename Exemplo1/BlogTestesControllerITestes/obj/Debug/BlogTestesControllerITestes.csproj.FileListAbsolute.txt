@@ -1,0 +1,8 @@
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\BlogTestesControllerI\BlogTestesControllerITestes\bin\Debug\BlogTestesControllerITestes.dll
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\BlogTestesControllerI\BlogTestesControllerITestes\bin\Debug\BlogTestesControllerITestes.pdb
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\BlogTestesControllerI\BlogTestesControllerITestes\bin\Debug\BlogTestesControllerI.dll
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\BlogTestesControllerI\BlogTestesControllerITestes\bin\Debug\Moq.dll
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\BlogTestesControllerI\BlogTestesControllerITestes\bin\Debug\BlogTestesControllerI.pdb
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\BlogTestesControllerI\BlogTestesControllerITestes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\BlogTestesControllerI\BlogTestesControllerITestes\obj\Debug\BlogTestesControllerITestes.dll
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\BlogTestesControllerI\BlogTestesControllerITestes\obj\Debug\BlogTestesControllerITestes.pdb
