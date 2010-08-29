@@ -1,0 +1,8 @@
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Asp.Net MVC Controllers Testes\TestesControllerII\TestesControllerIITestes\bin\Debug\TestesControllerIITestes.dll
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Asp.Net MVC Controllers Testes\TestesControllerII\TestesControllerIITestes\bin\Debug\TestesControllerIITestes.pdb
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Asp.Net MVC Controllers Testes\TestesControllerII\TestesControllerIITestes\bin\Debug\Moq.dll
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Asp.Net MVC Controllers Testes\TestesControllerII\TestesControllerIITestes\bin\Debug\TestesControllerII.dll
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Asp.Net MVC Controllers Testes\TestesControllerII\TestesControllerIITestes\bin\Debug\TestesControllerII.pdb
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Asp.Net MVC Controllers Testes\TestesControllerII\TestesControllerIITestes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Asp.Net MVC Controllers Testes\TestesControllerII\TestesControllerIITestes\obj\Debug\TestesControllerIITestes.dll
+C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Asp.Net MVC Controllers Testes\TestesControllerII\TestesControllerIITestes\obj\Debug\TestesControllerIITestes.pdb

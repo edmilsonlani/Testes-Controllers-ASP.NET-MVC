@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a6926e46-7c93-4aca-b816-b853ec462123" name="vinicius.quaiato@VQUAIATO-NOTE 2010-08-29 12:22:44" runUser="vquaiato-note\vinicius.quaiato" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="2512c552-6e70-4377-a8f1-8e87743447ef">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="vinicius.quaiato_VQUAIATO-NOTE 2010-08-29 12_22_44">
+      <DeploymentItem filename="C:\Users\vinicius.quaiato\Desktop\DNAD10\trunk\libs\Moq\Moq.dll" />
+      <DeploymentItem filename="C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Asp.Net MVC Controllers Testes\TestesControllerII\TestesControllerII\bin\TestesControllerII.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-08-29T12:22:44.9058889-03:00" queuing="2010-08-29T12:22:48.4930940-03:00" start="2010-08-29T12:22:48.6931055-03:00" finish="2010-08-29T12:22:49.8731730-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="2" executed="2" error="2" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Action_Listar_Retorna_Todos_Produtos_Para_View_ListarProdutos" storage="c:\users\vinicius.quaiato\documents\visual studio 2010\projects\asp.net mvc controllers testes\testescontrollerii\testescontrolleriitestes\bin\debug\testescontrolleriitestes.dll" id="405587ec-2973-10f3-a392-915fd93b7c73">
+      <Execution id="00a5dd9d-f3e7-4eef-a366-dd39d174968f" />
+      <TestMethod codeBase="C:/Users/vinicius.quaiato/Documents/Visual Studio 2010/Projects/Asp.Net MVC Controllers Testes/TestesControllerII/TestesControllerIITestes/bin/Debug/TestesControllerIITestes.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestesControllerIITestes.DadoUmControllerDeProdutos, TestesControllerIITestes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Action_Listar_Retorna_Todos_Produtos_Para_View_ListarProdutos" />
+    </UnitTest>
+    <UnitTest name="Action_Listar_Sem_Nenhum_Produto_Deve_Retornar_View_NenhumProduto" storage="c:\users\vinicius.quaiato\documents\visual studio 2010\projects\asp.net mvc controllers testes\testescontrollerii\testescontrolleriitestes\bin\debug\testescontrolleriitestes.dll" id="009a3801-45c0-733b-a970-950723193726">
+      <Execution id="a53d5d5a-359b-461d-8026-4371832d350a" />
+      <TestMethod codeBase="C:/Users/vinicius.quaiato/Documents/Visual Studio 2010/Projects/Asp.Net MVC Controllers Testes/TestesControllerII/TestesControllerIITestes/bin/Debug/TestesControllerIITestes.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestesControllerIITestes.DadoUmControllerDeProdutos, TestesControllerIITestes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Action_Listar_Sem_Nenhum_Produto_Deve_Retornar_View_NenhumProduto" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="009a3801-45c0-733b-a970-950723193726" executionId="a53d5d5a-359b-461d-8026-4371832d350a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="405587ec-2973-10f3-a392-915fd93b7c73" executionId="00a5dd9d-f3e7-4eef-a366-dd39d174968f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a53d5d5a-359b-461d-8026-4371832d350a" testId="009a3801-45c0-733b-a970-950723193726" testName="Action_Listar_Sem_Nenhum_Produto_Deve_Retornar_View_NenhumProduto" computerName="VQUAIATO-NOTE" startTime="2010-08-29T12:22:48.7861108-03:00" endTime="2010-08-29T12:22:49.7451657-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a53d5d5a-359b-461d-8026-4371832d350a">
+      <Output>
+        <ErrorInfo>
+          <Message>Method TestesControllerIITestes.DadoUmControllerDeProdutos.ConfiguraControllerERepositorio has wrong signature.  The method should be marked public.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="00a5dd9d-f3e7-4eef-a366-dd39d174968f" testId="405587ec-2973-10f3-a392-915fd93b7c73" testName="Action_Listar_Retorna_Todos_Produtos_Para_View_ListarProdutos" computerName="VQUAIATO-NOTE" startTime="2010-08-29T12:22:49.7611666-03:00" endTime="2010-08-29T12:22:49.7761674-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="00a5dd9d-f3e7-4eef-a366-dd39d174968f">
+      <Output>
+        <ErrorInfo>
+          <Message>Method TestesControllerIITestes.DadoUmControllerDeProdutos.ConfiguraControllerERepositorio has wrong signature.  The method should be marked public.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
